@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif)](https://danprecious.vercel.app/)
+
 <h1 align="center">Hi 👋, I'm Dan Precious</h1>
 <h3 align="center">A Frontend engineer who values simplicity, from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" />
