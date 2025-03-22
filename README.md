@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/dan_precious_" target="blank"><img src="https://img.shields.io/twitter/follow/dan_precious_?logo=twitter&style=for-the-badge" alt="dan_precious_" /></a> </p>
 
-- 🔭 I’m currently working on **an E-commerce platform for vendors**
+- 🔭 I’m currently working on **A Journalling PWA**
 
 - 🌱 I’m currently learning **Backends with Express**
 
